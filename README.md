@@ -80,3 +80,4 @@ We welcome contributions! If you'd like to contribute to the development of PRO 
 For any inquiries or feedback, [contact the PRO Elements team](mailto:proelements.org).
 
 Created with ♥ by the PRO Elements team. Licensed under the GPL License.
+
